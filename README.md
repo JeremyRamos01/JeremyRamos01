@@ -4,7 +4,7 @@
 
 Mi nombre es **Jeremy Ramos Segura**. Soy un estudiante que actualmente está cursando un curso de Grado Superior en el centro educarivo **IES Luis Vives**. 
 
-Soy una persona amable, responsable, dedicada, atenta etc etc....😁 Entre mis Hobbies se encuentra: escuchar música🎵, pasar un buen rato jugando a videojuegos🎮, jugar al ajedrez♟️,practicar baloncesto🏀 entre otras cosas más.
+Soy una persona amable, responsable, dedicada, atenta etc etc....😁 Entre mis Hobbies se encuentra: [escuchar música🎵](https://www.youtube.com/watch?v=W-fFHeTX70Q&t=2224s&ab_channel=HALIDONMUSIC), pasar un buen rato jugando a videojuegos🎮, jugar al ajedrez♟️,practicar baloncesto🏀 entre otras cosas más.
 
 Sobre todo estoy cursando este Grado porque veo que uno de mis principales proyectos es dedicarme a la programación ya que veo que tiene un repertorio de concoimiento lo bastante amplio para poder desenvolverse en cualquiera de sus areas.
 

@@ -9,7 +9,7 @@ Soy una persona amable, responsable, dedicada, atenta etc etc....😁 Entre mis 
 Sobre todo estoy cursando este Grado porque veo que uno de mis principales proyectos es dedicarme a la programación ya que veo que tiene un repertorio de concoimiento lo bastante amplio para poder desenvolverse en cualquiera de sus areas.
 
 
-<h1>Que estoy cursando</h1>
+<h1>¿Qué estoy cursando?</h1>
 
 -----------------------------------------
 
@@ -23,4 +23,22 @@ Este modulo trata sobre la creacion de aplicaciones software las cuales podemos 
 
 
 <h2>Objetivos</h2>
+
 ----------------------------------------------------------------
+
+Mis objetivos en este grado es obtener la capacidad de poder dedicarme 100% al mundo de la programación y poder sostenerme de forma estable en el futuro gracias a la rama que desempeñe en este trayecto de aprendizaje continuo. 
+
+
+<h2> Contacto </h2>
+
+![Twitter URL](https://img.shields.io/twitter/url?label=jeremy_PP&logoColor=yellow&style=social&url=https%3A%2F%2Ftwitter.com%2FJeremy_Ramos202)    
+
+![Instagram URL](https://img.shields.io/twitter/url?label=jeremy&logo=instagram&logoColor=yellow&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fjeremyramoss32%2F%3Fhl%3Des)
+
+![Twitter URL](https://img.shields.io/twitter/url?label=JeremyRamos01&logo=github&logoColor=yellow&style=social&url=https%3A%2F%2Fgithub.com%2FJeremyRamos01)
+
+
+---------------------------------------------------------
+
+
+

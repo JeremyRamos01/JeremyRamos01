@@ -10,7 +10,6 @@ Sobre todo estoy cursando este Grado porque veo que uno de mis principales proye
 
 
 #####Que estoy cursando
-
 ------------------------------------------------
 
 Actualmente en este instituto estoy cursando un módulo llamado ***Desarrolo de Aplicaciones Multiplataforma*** impartido por quien ahora es nuestro profesor actual: **José Luis Gonzáles Sanchez**.

@@ -9,18 +9,18 @@ Soy una persona amable, responsable, dedicada, atenta etc etc....😁 Entre mis 
 Sobre todo estoy cursando este Grado porque veo que uno de mis principales proyectos es dedicarme a la programación ya que veo que tiene un repertorio de concoimiento lo bastante amplio para poder desenvolverse en cualquiera de sus areas.
 
 
-<h1>Que estoy cursando<h1>
+<h1>Que estoy cursando</h1>
 
 -----------------------------------------
 
-<p>Actualmente en este instituto estoy cursando un módulo llamado ***Desarrolo de Aplicaciones Multiplataforma*** impartido por quien ahora es nuestro profesor actual: **José Luis Gonzáles Sanchez**.
+Actualmente en este instituto estoy cursando un módulo llamado ***Desarrolo de Aplicaciones Multiplataforma*** impartido por quien ahora es nuestro profesor actual: **José Luis Gonzáles Sanchez**.
 
 Para más informacion sobre él y su trabajo aqui les dejo su GitHub: [GitHub](https://github.com/joseluisgs).
 
-Este modulo trata sobre la creacion de aplicaciones software las cuales podemos diseñar, adaptar y modificar con distintos lenguajes de programación tales como:<p> [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide), [Java](http://www.manualweb.net/java/), [TypeScript](https://www.typescriptlang.org/docs/).
+Este modulo trata sobre la creacion de aplicaciones software las cuales podemos diseñar, adaptar y modificar con distintos lenguajes de programación tales como: [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide), [Java](http://www.manualweb.net/java/), [TypeScript](https://www.typescriptlang.org/docs/).
 
 ![Programando](https://i.emezeta.com/weblog/editores-para-programar/sublime-text.gif)
 
 
-<h2>Objetivos<h2>
+<h2>Objetivos</h2>
 ----------------------------------------------------------------

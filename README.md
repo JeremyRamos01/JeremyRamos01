@@ -20,8 +20,11 @@ Para más informacion sobre él y su trabajo aqui les dejo su GitHub: [GitHub](h
 Este modulo trata sobre la creacion de aplicaciones software las cuales podemos diseñar, adaptar y modificar con distintos lenguajes de programación tales como: [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide), [Java](http://www.manualweb.net/java/), [TypeScript](https://www.typescriptlang.org/docs/).
 
 
+#### **Lenguajes Momentaneamente usados** 
+<img src="../img/java-logo.png" width="130">  <img src="../img/javas.png" height="60"> <img src="../img/types.png" height="60">
 
-![Java](https://developer.mozilla.org/en/Java)
+
+
 
 ![Programando](https://i.emezeta.com/weblog/editores-para-programar/sublime-text.gif)
 

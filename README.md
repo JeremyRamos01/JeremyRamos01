@@ -21,7 +21,7 @@ Este modulo trata sobre la creacion de aplicaciones software las cuales podemos 
 
 
 #### **Lenguajes Momentaneamente usados** 
-<img src="img/java-logo.png" width="130">  <img src="img/javas.png" height="60"> <img src="img/types.png" height="60">
+<img src="img/Java-logo.png" width="130">  <img src="img/javas.png" height="60"> <img src="img/types.png" height="60">
 
 
 

@@ -19,6 +19,10 @@ Para más informacion sobre él y su trabajo aqui les dejo su GitHub: [GitHub](h
 
 Este modulo trata sobre la creacion de aplicaciones software las cuales podemos diseñar, adaptar y modificar con distintos lenguajes de programación tales como: [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide), [Java](http://www.manualweb.net/java/), [TypeScript](https://www.typescriptlang.org/docs/).
 
+
+
+![Java](https://developer.mozilla.org/en/Java)
+
 ![Programando](https://i.emezeta.com/weblog/editores-para-programar/sublime-text.gif)
 
 
@@ -38,7 +42,11 @@ Mis objetivos en este grado es obtener la capacidad de poder dedicarme 100% al m
 ![Twitter URL](https://img.shields.io/twitter/url?label=JeremyRamos01&logo=github&logoColor=yellow&style=social&url=https%3A%2F%2Fgithub.com%2FJeremyRamos01)
 
 
----------------------------------------------------------
+--------------------------------------------------------
+
+<h2>Experiencia Laboral</h2>
+
+Proximamente.................
 
 
-
+-----------
